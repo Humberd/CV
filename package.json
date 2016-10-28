@@ -1,0 +1,24 @@
+{
+  "name": "cv",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "gulp",
+    "shot": "gulp screenshot"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Humberd/CV.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Humberd/CV/issues"
+  },
+  "homepage": "https://github.com/Humberd/CV#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-server-livereload": "^1.9.1"
+  }
+}
