@@ -8,5 +8,8 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="angular-translate" level="application" />
+    <orderEntry type="library" name="less" level="application" />
+    <orderEntry type="library" name="angular" level="application" />
   </component>
 </module>
