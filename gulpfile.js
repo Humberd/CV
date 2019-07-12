@@ -5,7 +5,8 @@ gulp.task("startServer", function () {
 		.pipe(webserver({
 			host: "0.0.0.0",
 			defaultFile: "cv.html",
-			livereload: true
+			livereload: true,
+			port: 8001
 		}));
 });
 
